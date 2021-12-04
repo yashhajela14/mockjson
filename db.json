@@ -2,8 +2,9 @@
     "posts": [
         {
             "postID": 1,
-            "userName": "yashh",
-            "fullName": "Yash Hajela",
+            "postHeader": "React.js memes",
+            "userName": "kishorep",
+            "fullName": "Kishore Prem",
             "likes": 10,
             "comments": [
                 {
@@ -15,12 +16,15 @@
                     "commentText": "Lol!"
                 }
             ],
-            "mediaUrl": "abc.com"
+            "mediaUrl": "abc.com",
+            "active": true,
+            "published": true
         },
         {
             "postID": 2,
-            "userName": "piyushp",
-            "fullName": "Piyush Pandey",
+            "postHeader": "We are now live @mahilaMoney",
+            "userName": "sandeepk",
+            "fullName": "Sandeep Kumar",
             "likes": 15,
             "comments": [
                 {
@@ -32,12 +36,15 @@
                     "commentText": "Awesome!"
                 }
             ],
-            "mediaUrl": "pqr.com"
+            "mediaUrl": "pqr.com",
+            "active": true,
+            "published": true
         },
         {
             "postID": 3,
-            "userName": "robins",
-            "fullName": "Robin Singh",
+            "postHeader": "Funded through mahila money!",
+            "userName": "vikrams",
+            "fullName": "Vikram Singh",
             "likes": 25,
             "comments": [
                 {
@@ -49,7 +56,9 @@
                     "commentText": "Congrats!"
                 }
             ],
-            "mediaUrl": "xyz.com"
+            "mediaUrl": "xyz.com",
+            "active": true,
+            "published": true
         }
     ]
 }

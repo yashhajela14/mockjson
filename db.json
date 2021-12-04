@@ -1,18 +1,52 @@
-{ "posts": [
+{
+    "posts": [
         {
             "userName": "yashh",
             "fullName": "Yash Hajela",
-            "likes": 10
+            "likes": 10,
+            "comments": [
+                {
+                    "commentId": 1,
+                    "commentText": "Great Post!"
+                },
+                {
+                    "commentId": 2,
+                    "commentText": "Lol!"
+                }
+            ],
+            "mediaUrl": "abc.com"
         },
         {
             "userName": "piyushp",
             "fullName": "Piyush Pandey",
-            "likes": 15
+            "likes": 15,
+            "comments": [
+                {
+                    "commentId": 1,
+                    "commentText": "Perfect"
+                },
+                {
+                    "commentId": 2,
+                    "commentText": "Awesome!"
+                }
+            ],
+            "mediaUrl": "pqr.com"
         },
         {
             "userName": "robins",
             "fullName": "Robin Singh",
-            "likes": 25
+            "likes": 25,
+            "comments": [
+                {
+                    "commentId": 1,
+                    "commentText": "Kudos!"
+                },
+                {
+                    "commentId": 2,
+                    "commentText": "Congrats!"
+                }
+            ],
+            "mediaUrl": "xyz.com"
         }
     ]
 }

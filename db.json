@@ -1,0 +1,18 @@
+{ "posts": [
+        {
+            "userName": "yashh",
+            "fullName": "Yash Hajela",
+            "likes": 10
+        },
+        {
+            "userName": "piyushp",
+            "fullName": "Piyush Pandey",
+            "likes": 15
+        },
+        {
+            "userName": "robins",
+            "fullName": "Robin Singh",
+            "likes": 25
+        }
+    ]
+}

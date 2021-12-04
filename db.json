@@ -16,7 +16,7 @@
                     "commentText": "Lol!"
                 }
             ],
-            "mediaUrl": "abc.com",
+            "mediaUrl": "https://i.ibb.co/mNj81gr/react-Meme.jpg",
             "active": true,
             "published": true
         },
@@ -36,7 +36,7 @@
                     "commentText": "Awesome!"
                 }
             ],
-            "mediaUrl": "pqr.com",
+            "mediaUrl": "https://i.ibb.co/jgQgXk1/MMLive.jpg",
             "active": true,
             "published": false
         },
@@ -56,7 +56,7 @@
                     "commentText": "Congrats!"
                 }
             ],
-            "mediaUrl": "xyz.com",
+            "mediaUrl": "https://i.ibb.co/YhVCjxq/newCar.jpg",
             "active": false,
             "published": false
         }

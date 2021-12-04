@@ -38,7 +38,7 @@
             ],
             "mediaUrl": "pqr.com",
             "active": true,
-            "published": true
+            "published": false
         },
         {
             "postID": 3,
@@ -57,8 +57,8 @@
                 }
             ],
             "mediaUrl": "xyz.com",
-            "active": true,
-            "published": true
+            "active": false,
+            "published": false
         }
     ]
 }
